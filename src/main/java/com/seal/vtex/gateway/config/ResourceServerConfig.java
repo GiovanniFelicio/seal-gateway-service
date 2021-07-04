@@ -1,4 +1,4 @@
-package com.omega.gateway.config;
+package com.seal.vtex.gateway.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

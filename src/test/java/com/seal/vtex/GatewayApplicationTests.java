@@ -1,4 +1,4 @@
-package com.omega.gateway;
+package com.seal.vtex;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
